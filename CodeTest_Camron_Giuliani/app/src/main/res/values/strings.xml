@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CodeTest_Camron_Giuliani</string>
+
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="app_logo">App Logo</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="add_member">Add Member</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="update_member">Update Member</string>
+    <string name="remove_member">Remove Member</string>
+    <string name="phone">phone</string>
+    <string name="dob">dob</string>
+    <string name="zip">zip</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="birthday">Birthday</string>
+    <string name="full_name">Full Name</string>
+    <string name="no_network_detected_exp">No network detected. Please connect to a network and try again.</string>
+
+</resources>

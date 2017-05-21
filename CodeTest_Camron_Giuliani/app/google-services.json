@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1047797124626",
+    "firebase_url": "https://fir-crud-dca7e.firebaseio.com",
+    "project_id": "fir-crud-dca7e",
+    "storage_bucket": "fir-crud-dca7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047797124626:android:06b9df8cfa46d133",
+        "android_client_info": {
+          "package_name": "com.aztechdev.CodeTest_Camron_Giuliani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047797124626-6pc8qj71ui1b3sgehe531rlntafukrvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMY7rMC6KAqn35pVX93j39Q5K27-TpcOI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
